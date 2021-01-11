@@ -1,16 +1,18 @@
 ### Hi there 👋
+### Hi there 👋, I'am P. VINAY BHUSHAN
+#### Student | Development | CP 
 
-<!--
-**padalavinaybhushan/padalavinaybhushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is P.Vinay Bhushan. I'm an Btech student at Sreenidhi institute of science and Technology in 
+Computer Science . Hyderabad 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:  REACT / JS / HTML / CSS/ PYTHON
+
+- 🔭 I’m currently working on web development 
+- 🌱 I’m currently learning REACT JS 
+
+
+
+
+
+
