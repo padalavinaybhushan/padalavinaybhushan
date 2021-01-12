@@ -5,6 +5,8 @@
 My name is P.Vinay Bhushan. I'm an Btech student at Sreenidhi institute of science and Technology in 
 Computer Science . Hyderabad 
 
+![WhatsApp Image 2021-01-12 at 15 25 41 (1)](https://user-images.githubusercontent.com/72262126/104316489-8aafba80-5502-11eb-87a6-29ff519ed71e.jpeg)
+
 Skills:  REACT / JS / HTML / CSS/ PYTHON
 
 - 🔭 I’m currently working on web development 
